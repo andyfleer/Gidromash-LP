@@ -1,0 +1,14 @@
+[0413/190658.983:ERROR:process_reader_win.cc(151)] SuspendThread: ќтказано в доступе. (0x5)
+[0413/190702.271:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.405:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.405:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.405:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.405:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.405:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.480:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.480:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.480:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.480:ERROR:process_reader_win.cc(123)] NtOpenThread: ”казан неверный код клиента. (0xc000000b)
+[0413/190702.480:ERROR:exception_snapshot_win.cc(88)] thread ID 507532 not found in process
+[0413/190703.057:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0413/190703.057:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: ѕопытка доступа к процессу, выполн€ющему процедуру завершени€. (0xc000010a)
