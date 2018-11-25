@@ -15,8 +15,8 @@ $(function($) {
        nav:false,
        dots:true,
        items: 1,
-       smartSpeed: 1500,
-       autoplay: true,
+       smartSpeed: 5000,
+       autoplay: false,
        animateOut: 'fadeOut'
    });
 });

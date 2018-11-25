@@ -125,6 +125,8 @@ header .owl-carousel .item {
     font-weight: 700;
     line-height: 90px;
     color: #ffc527; }
+  header .owl-carousel .item p {
+    font-size: 30px; }
 
 header .owl-carousel .item-1 {
   background: url(../img/img1.jpg) no-repeat center center;
